@@ -27,7 +27,7 @@
 
 ### Scripts:
 
-
+![N|Solid](https://github.com/patobas/docs/blob/master/script.gif)
 
 
 ### Create Monitor:
