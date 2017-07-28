@@ -1,7 +1,12 @@
 
 [![](https://theeye.io/landpage/images/logo.png)](https://theeye.io)
 
+
+
+
 ![](https://github.com/patobas/docs/blob/master/eye.png)
+
+
 
 # Contents
 
@@ -19,19 +24,20 @@
 + [Build Agent Binary](https://github.com/theeye-io-team/theeye-docs/tree/master/agent/binary_build.md)
 
 
-
 ### TheEye-CLI
 
 + [CLI Util](https://github.com/theeye-io-team/theeye-docs/tree/master/cli)
 
 
-### Scripts:
+### Creando scripts:
 
 ![](https://github.com/patobas/docs/blob/master/script.gif)
 
 
-### Create Monitor:
-There are several types of monitor
+### Creando Monitor:
+Hay muchos tipos de monitor. Nos sirve para controlar los servicios de nuestros hosts.
+Nos ofrece modificar umbrales y que nos alerte cuando lo supera.
+
 + Script (tiene que devolver true de lo contrario siempre asume failure).
 
 GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF 
