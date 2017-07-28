@@ -1,14 +1,13 @@
 
 [![](https://theeye.io/landpage/images/logo.png)](https://theeye.io)
 
-
-
-
 ![](https://github.com/patobas/docs/blob/master/eye.png)
 
-
-
 # Contents
+
+### TheEye-CLI
+
++ [CLI Util](https://github.com/theeye-io-team/theeye-docs/tree/master/cli)
 
 ### Scripts
 
@@ -18,18 +17,7 @@
 
 + [Samples](https://github.com/theeye-io-team/theeye-docs/tree/master/scripts)
 
-
-### TheEye-Agent
-
-+ [Build Agent Binary](https://github.com/theeye-io-team/theeye-docs/tree/master/agent/binary_build.md)
-
-
-### TheEye-CLI
-
-+ [CLI Util](https://github.com/theeye-io-team/theeye-docs/tree/master/cli)
-
-
-### Creando scripts:
+Para crear un script: 
 
 ![](https://github.com/patobas/docs/blob/master/script.gif)
 
@@ -63,7 +51,13 @@ GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF 
 
 GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF GIF 
 
-### Agent installation:
+### TheEye-Agent. Instalación:
+
++ [Build Agent Binary](https://github.com/theeye-io-team/theeye-docs/tree/master/agent/binary_build.md)
+
+
+
+
 
 + Lo de ir a profile, copiar y pegar en la consola.
 
