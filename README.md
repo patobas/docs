@@ -22,9 +22,12 @@ Para crear un script:
 ![](https://github.com/patobas/docs/blob/master/script.gif)
 
 
-### Creando Monitor:
-Hay muchos tipos de monitor. Nos sirve para controlar los servicios de nuestros hosts.
-Nos ofrece modificar umbrales y que nos alerte cuando lo supera.
+### Monitor:
+Hay muchos tipos de monitor. Nos sirve para controlar los servicios de nuestros equipos.
+Por otro lado, nos ofrece la posibilidad de modificar los umbrales de monitoreo de las estadísticas de los equipos 
+(Host Stats Monitor) y que nos alerte cuando alcanza dicho umbral.
+
+
 
 + Script (tiene que devolver true de lo contrario siempre asume failure).
 
