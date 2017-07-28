@@ -1,7 +1,7 @@
-# TheEye-Docs
 
 [![N|Solid](https://theeye.io/landpage/images/logo.png)](https://theeye.io)
 
+# Docs
 
 ### Contents
 
