@@ -3,11 +3,9 @@
 
 ![N|Solid](https://github.com/patobas/docs/blob/master/eye.png)
 
-# Docs
+# Contents
 
-### Contents
-
-## Scripts
+### Scripts
 
 + [Writing Scripts](https://github.com/theeye-io-team/theeye-docs/tree/master/scripts/write.md)
 
@@ -16,13 +14,13 @@
 + [Samples](https://github.com/theeye-io-team/theeye-docs/tree/master/scripts)
 
 
-## TheEye-Agent
+### TheEye-Agent
 
 + [Build Agent Binary](https://github.com/theeye-io-team/theeye-docs/tree/master/agent/binary_build.md)
 
 
 
-## TheEye-CLI
+### TheEye-CLI
 
 + [CLI Util](https://github.com/theeye-io-team/theeye-docs/tree/master/cli)
 
