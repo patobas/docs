@@ -27,10 +27,10 @@
 
 ### Scripts:
 
-![N|Solid](https://github.com/patobas/docs/blob/master/script.gif)
+![](https://github.com/patobas/docs/blob/master/script.gif)
 
 
-+### Create Monitor:
+### Create Monitor:
 There are several types of monitor
 + Script (tiene que devolver true de lo contrario siempre asume failure).
 
