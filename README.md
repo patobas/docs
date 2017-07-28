@@ -1,5 +1,5 @@
 
-[![N|Solid](https://theeye.io/landpage/images/logo.png)](https://theeye.io)
+[![](https://theeye.io/landpage/images/logo.png)](https://theeye.io)
 
 ![N|Solid](https://github.com/patobas/docs/blob/master/eye.png)
 
