@@ -29,46 +29,44 @@ Por otro lado, nos ofrece la posibilidad de modificar los umbrales de monitoreo 
 
 ![](https://github.com/patobas/docs/blob/master/monitor_stats.gif)
 
-GIF
-
 + Script (tiene que devolver true de lo contrario siempre asume failure).
 
-GIF 
+................
 
 + API/WEB check, chequea el endpoint web con el payload y se puede machear string o 200/404/500
 
-GIF
+................
 
 + Tipo proceso, busca un proceso.
 
-GIF
+................
 
 ### Create Task:
 + Se puede crear una tarea de tipo script. Se puede concatenar con eventos.
 
-GIF
+................
 
 + Se puede crear una tarea de tipo endpoint API/WEB. le pega a una web/api.
 
-GIF
+................
 
 + Las tareas se pueden schedular, y en scheduled view se pueden ver todas las tareas programadas.
 
-GIF
+................
 
 ### TheEye-Agent. Instalación:
 
 + [Build Agent Binary](https://github.com/theeye-io-team/theeye-docs/tree/master/agent/binary_build.md)
 
-GIF
+................
 
 + Lo de ir a profile, copiar y pegar en la consola.
 
 ### Templates:
 
-GIF
+................
 
-+ Cuando llegues acá lo vemos.
++ ................
 
 ### Webhooks:
 + Forma de acceder desde otro sistema, genera un link que al pegarle puede ejecutar una tarea si está vinculada.
